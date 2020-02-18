@@ -198,7 +198,7 @@ def go():
 
 
 def main():
-    """The main function"""
+    """The main function that calls all methods"""
     select_user = "y"
     while select_user == "y":
         go()
